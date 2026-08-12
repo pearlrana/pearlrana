@@ -90,20 +90,24 @@ I'm a CS & Business Systems student at Thapar Institute of Engineering and Techn
 ![Full stack](https://img.shields.io/badge/Full--stack-end%20to%20end%20apps-0d1117?style=flat-square&logo=vercel&logoColor=C9D1D9&labelColor=0d1117)
 
 <br/>
-
 ## GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pearlrana/pearlrana/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pearlrana/pearlrana/output/snake-light.svg">
-  <img src="https://raw.githubusercontent.com/pearlrana/pearlrana/output/snake-dark.svg" alt="GitHub contribution snake animation" width="100%">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/pearlrana/pearlrana/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/pearlrana/pearlrana/output/snake-light.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/pearlrana/pearlrana/output/snake-dark.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
 </picture>
 
-<br/><br/>
-
-## Connect
-
-## Connect
 ## Connect
 
 <p align="center">
