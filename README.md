@@ -103,11 +103,16 @@ I'm a CS & Business Systems student at Thapar Institute of Engineering and Techn
 
 ## Connect
 
-<div align="center">
+## Connect
 
-[![GitHub](https://img.shields.io/badge/-GitHub-161b22?style=flat-square&logo=github&logoColor=C9D1D9)](https://github.com/pearlrana)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=7C9CFF)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-161b22?style=flat-square&logo=vercel&logoColor=58E6D9)](YOUR_PORTFOLIO_URL)
-
-</div>
-
+<p align="center">
+  <a href="https://github.com/pearlrana">
+    <img src="https://img.shields.io/badge/GitHub-pearlrana-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pearl-rana-51080b32b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pearl%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-website-nine-peach-55.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
