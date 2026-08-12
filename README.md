@@ -104,15 +104,16 @@ I'm a CS & Business Systems student at Thapar Institute of Engineering and Techn
 ## Connect
 
 ## Connect
+## Connect
 
 <p align="center">
   <a href="https://github.com/pearlrana">
-    <img src="https://img.shields.io/badge/GitHub-pearlrana-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/pearl-rana-51080b32b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pearl%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://portfolio-website-nine-peach-55.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
