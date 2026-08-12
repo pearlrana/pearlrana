@@ -95,14 +95,14 @@ I'm a CS & Business Systems student at Thapar Institute of Engineering and Techn
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/pearlrana/pearlrana/output/snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/pearlrana/pearlrana/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/pearlrana/pearlrana/output/snake-light.svg"
+    srcset="https://raw.githubusercontent.com/pearlrana/pearlrana/output/github-snake.svg"
   />
   <img
-    src="https://raw.githubusercontent.com/pearlrana/pearlrana/output/snake-dark.svg"
+    src="https://raw.githubusercontent.com/pearlrana/pearlrana/output/github-snake.svg"
     alt="GitHub contribution snake animation"
     width="100%"
   />
